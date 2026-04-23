@@ -239,7 +239,7 @@ function renderPrize() {
         Registrado em: <strong>${formatDateTime(state.completedAt)}</strong>
       </div>
       <div class="card-actions" style="justify-content:center;">
-        <a class="primary-btn" target="_blank" rel="noopener" href="https://wa.me/5516999999999?text=${message}">Entrar em contato com a equipe</a>
+        <a class="primary-btn" target="_blank" rel="noopener" href="https://wa.me/5516997913686?text=${message}">Entrar em contato com a equipe</a>
       </div>
     </div>`;
 }
