@@ -88,7 +88,7 @@ function renderRegister() {
         </div>
         <button class="primary-btn" type="submit">Começar agora</button>
       </form>
-      <div class="logo-note">Para usar a logo flutuando no fundo, salve sua imagem em <strong>public/assets/logo-biruta.png</strong>. Se quiser trocar depois, é só substituir esse arquivo pelo mesmo nome.</div>
+      
     </div>`;
 
   document.getElementById('whatsapp').addEventListener('input', e => {
